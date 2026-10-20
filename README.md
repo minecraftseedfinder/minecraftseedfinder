@@ -1,8 +1,8 @@
-# Hi there 👋 I'm Mehak
+# 🌱 Minecraft Seed Finder
 
-🌱 I run **[Minecraft Seed Finder](https://minecraftseedfinder.com/)** — a free interactive seed map for **Minecraft Java & Bedrock**.
+**Free interactive seed map for Minecraft Java & Bedrock** — preview any world from its seed before you spawn.
 
-## 🗺️ What I built
+## 🗺️ The tools
 - **[Seed Map](https://minecraftseedfinder.com/)** — preview any world from its seed: biomes, villages, strongholds and 22 structure types, all with exact coordinates
 - **[Seed Finder](https://minecraftseedfinder.com/minecraft-seed-finder/)** — search millions of seeds by what you want near spawn
 - **Finder tools** — biome finder, slime chunk finder, and diamond / iron / gold / emerald ore finders
