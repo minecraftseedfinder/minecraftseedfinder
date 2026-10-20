@@ -10,7 +10,7 @@
 
 ## ⭐ Start here
 - 🏆 [Best Minecraft Seeds](https://minecraftseedfinder.com/best-minecraft-seeds/)
-- 📝 [Best Minecraft Seeds — the Gist](https://gist.github.com/Mehakz0/adb6072a35a4c89c489553dcd6d5b46a)
+- 📝 [Best Minecraft Seeds — the Gist](https://gist.github.com/minecraftseedfinder/adb6072a35a4c89c489553dcd6d5b46a)
 - 🗄️ [Seeds Database](https://minecraftseedfinder.com/seeds/)
 
 ## 💬 Community
